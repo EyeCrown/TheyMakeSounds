@@ -15,8 +15,8 @@ The goal of this project was to produce a **Vertical Slice** of potential bigger
 
 ## Screenshots
  
-|||||
-|-|-|-|-|
+|||
+|-|-|
 |![screenshot1](img/screenshot1.jpg)|![screenshot1](img/screenshot2.jpg)|
 |![screenshot1](img/screenshot3.jpg)|![screenshot1](img/screenshot4.jpg)|
 
