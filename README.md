@@ -56,7 +56,7 @@ As a school project, in programming we had deliverables to produce about technic
 | 🖌️ [Benjamin Philippot](https://benphi.artstation.com/) | 3D Environment & Level Art & Tech Art & Cinematic |
 | 🖌️ [Brice Bonnefond](https://bryssbo.itch.io/)          | 3D Art & Character                                |
 | 🖌️ [Anaïs Dubart](https://anaisd.artstation.com/)       | Concept Art & UI Art                              |
-| 🎵 [Enzo Tittarelli](https://kygen-sondidier.itch.io/)  | Game Audio Design                                 |
+| 🎵 [Enzo Tittarelli Sanz-Crespo](https://kygen-sondidier.itch.io/)  | Game Audio Design                     |
 | 🎲 [Faer Souville](https://faer.itch.io/)               | Tech & Level Design                               |
 | 🎲 [Maxence Martiniani](https://dotsquare.itch.io/)     | System & Narrative Design                         |
 | **Thanks to** |
